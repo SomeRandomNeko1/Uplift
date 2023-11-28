@@ -1,6 +1,6 @@
 # UPLIFT BO
 ## 🧷 Logo:
-![Uplift BO LOGO](https://github.com/SomeRandomNeko1/Uplift/blob/main/Img/Uplift.png)
+![Uplift BO LOGO](https://github.com/SomeRandomNeko1/Uplift/blob/main/Img/Upliftlogo.png)
 ## 👑 Made By:
 Li Hong Chen | Ho-Ying Yip | E.V.A
 ## 👥 Members:
